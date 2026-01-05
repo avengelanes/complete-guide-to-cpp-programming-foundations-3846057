@@ -1,5 +1,5 @@
 // Complete Guide to C++ Programming Foundations
-// Exercise 00_03 mod
+// Exercise 00_03 mod + removed breakpoint
 // Using the Exercise Files in GitHub Codespaces, by Eduardo Corpeño 
 
 #include <iostream>

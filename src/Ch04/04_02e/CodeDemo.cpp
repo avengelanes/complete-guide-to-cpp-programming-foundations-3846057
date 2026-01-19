@@ -17,6 +17,11 @@ int main(){
     std::cout << "Where ptr is pointing, we have " << *ptr << std::endl;
     std::cout << "         The address of ptr is " << &ptr << std::endl;
     
+    *ptr= 20;
+    std::cout << std::endl;
+    std::cout << "         The value of a is  " << a << std::endl;
+    std::cout << " Where ptr is pointing, we have" << *ptr << std::endl;
+    
     std::cout << std::endl << std::endl;
     return 0;
 }

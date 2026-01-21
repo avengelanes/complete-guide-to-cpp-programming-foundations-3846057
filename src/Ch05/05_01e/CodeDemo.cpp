@@ -5,7 +5,7 @@
 #include <iostream>
 
 int main(){
-    int score = 1023;
+    int score = 1200;
     bool gamePaused = false;
     char action = 'x';
 
